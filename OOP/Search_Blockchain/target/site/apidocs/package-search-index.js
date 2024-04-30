@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"API"},{"l":"com.mycompany.search_blockchain"},{"l":"TrendingMethod"}];updateSearchResults();
